@@ -1,4 +1,4 @@
-package example;
+package example.adv;
 
 public class DaemonThreadExample {
 

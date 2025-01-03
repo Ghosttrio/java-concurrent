@@ -1,4 +1,4 @@
-package example;
+package example.basic;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.ExecutorService;

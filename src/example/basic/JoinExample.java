@@ -1,4 +1,4 @@
-package example;
+package example.basic;
 
 public class JoinExample {
 
